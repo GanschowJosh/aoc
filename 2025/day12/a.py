@@ -154,10 +154,6 @@ for (W,H,counts) in regions:
 
 print(ok)
 
-"""
-FUCK THIS FUCK YOU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-""" 
-
 # with open(input(), 'r') as f:
 #   lines = [line.rstrip() for line in f]
 
